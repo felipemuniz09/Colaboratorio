@@ -1,0 +1,10 @@
+Index:
+	Index, Create New, Edit, Details, Delete, Title
+Create:
+	Create, Back to List, Create
+Edit:
+	Edit, Save, Back to List, Title
+Details:
+	Details, Edit, Back to List, Title
+Delete:
+	Delete, "Are you sure you want to delete this?", Delete (button), Back to List, Title
